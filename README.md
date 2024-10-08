@@ -40,7 +40,7 @@ Je suis fier de faire partie de l'école **[42](https://www.42.fr/)** 🎓, une 
 ## 📊 Mes Statistiques GitHub :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbah42&show_icons=true&theme=radical" alt="Mamad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mbah42&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Current Commit Streak" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=mbah42&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Current Commit Streak" />-->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbah42&layout=compact&theme=radical" alt="Top Langages" />
