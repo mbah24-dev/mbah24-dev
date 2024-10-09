@@ -52,7 +52,7 @@ Je suis fier de faire partie de l'école **[42](https://www.42.fr/)** 🎓, une 
 Je suis en pleine forme ! 🔥 Voici mon **streak** de jours consécutifs de commits :
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=radical" alt="Commit Streak" />
-  ![Current Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=radical)
+  ![Current Commit Streak]()
 
 </p>
 
