@@ -40,21 +40,15 @@ Je suis fier de faire partie de l'école **[42](https://www.42.fr/)** 🎓, une 
 - **Projets complexes en C et C++** 💡
 
 ## 📊 Mes Statistiques GitHub :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&theme=radical" alt="Mamad's GitHub stats" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=mbah42&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Current Commit Streak" />-->
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbah24-dev&layout=compact&theme=radical" alt="Top Langages" />
-</p>
-
-## 🔥 Current Commit Streak
-Je suis en pleine forme ! 🔥 Voici mon **streak** de jours consécutifs de commits :
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=radical" alt="Commit Streak" />
-  ![Current Commit Streak]()
-
-</p>
+<a href="https://github.com/mbah24-dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&locale=en&count_private=true&theme=radical" alt="mbah24-dev" />
+</a>
+<a href="https://github.com/mbah24-dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbah24-dev&layout=pie&langs_count=10&card_width=320&theme=radical" alt="mbah24-dev" />
+</a>
+<a href="https://github.com/mbah24-dev">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=radical" alt="mbah24-dev" />
+</a>
 
 ## 🤔 N'hésite pas à me contacter si tu veux discuter :
 - **C** 💻
