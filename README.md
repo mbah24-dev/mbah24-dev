@@ -1,10 +1,6 @@
-# 👨‍💻 BAH Mamad | Étudiant à [**42**](https://www.42.fr/) & Passionné par le Code 
+# 👨‍💻 BAH Mamad | Étudiant à [**42**](https://www.42.fr/)
 
 Hey 👋, moi c'est **BAH Mamad**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du **C** et du **C++**.
-
-## 🌟 **42** – Ma Formation
-Je suis fier de faire partie de l'école **[42](https://www.42.fr/)** 🎓, une institution réputée pour sa pédagogie innovante et sans professeur. C'est ici que j'affine mes compétences en **C**, **C++**, tout en explorant le développement **web**.
-
 ---
 
 ## 💡 Ce sur quoi je travaille actuellement :
@@ -12,7 +8,7 @@ Je suis fier de faire partie de l'école **[42](https://www.42.fr/)** 🎓, une 
 - 🌱 Apprentissage de **Django** et **React**
 - 🧠 Exploration de la **Cybersecurité**
 
-##🚀 Outils & Technologies que j'utilise :
+## 🚀 Outils & Technologies que j'utilise :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
