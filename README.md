@@ -24,6 +24,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ---
 ### 42 School Projects
+---
 <div align="center">
 
 <a href="https://github.com/mbah24-dev/libft">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/libfte.png)</a>
