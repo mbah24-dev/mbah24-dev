@@ -32,7 +32,9 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 <a href="https://github.com/mbah24-dev/ft_printf">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/mbah24-dev/Born2beroot">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/born2beroote.png)</a>
 </div>
+
 ---
+
 ## 📊 Mes Statistiques GitHub :
 <a href="https://github.com/mbah24-dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&locale=en&count_private=true&theme=radical" alt="mbah24-dev" />
