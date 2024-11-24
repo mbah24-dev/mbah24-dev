@@ -1,7 +1,7 @@
 # 👨‍💻 BAH Mamad | Étudiant à [**42**](https://www.42.fr/).
 
-- Hey 👋, moi c'est **BAH Mamad**, étudiant à l'**École 42** 🎓, passionné par la programmation et - - toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein
-- apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du **C** et du **C++**.
+- Hey 👋, moi c'est **BAH Mamad**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein
+apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du **CODE**
 ---
 
 ## 💡 Ce sur quoi je travaille actuellement :
