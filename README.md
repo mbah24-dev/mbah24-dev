@@ -40,7 +40,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbah24-dev&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mbah24-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbah24-dev&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/mbah24-dev">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=radical" alt="mbah24-dev" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=tokyonight" alt="mbah24-dev" />
 </a>
 </div>
 
