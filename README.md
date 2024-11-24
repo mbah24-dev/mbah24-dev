@@ -36,15 +36,15 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ---
 
 ## 📊 Mes Statistiques GitHub :
-<a href="https://github.com/mbah24-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&locale=en&count_private=true&theme=radical" alt="mbah24-dev" />
-</a>
-<a href="https://github.com/mbah24-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbah24-dev&layout=pie&langs_count=10&card_width=320&theme=radical" alt="mbah24-dev" />
-</a>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcombeau&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mcombeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcombeau&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/mbah24-dev">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=radical" alt="mbah24-dev" />
 </a>
+</div>
+
+
 
 ## 🤔 N'hésite pas à me contacter si tu veux discuter :
 - **C** 💻
