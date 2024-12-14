@@ -20,8 +20,9 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
-  <img src="https://d1.awsstatic.com/webteam/aws_logo_smile_1200x630.8c0b4198ddf98ad17b1e7aebb163d379d7a5fc2c.png" alt="AWS" width="40" height="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40" title="AWS"/>
 </p>
+
 
 
   
