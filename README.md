@@ -1,6 +1,6 @@
 # 👨‍💻 BAH Mamad | Étudiant à [**42**](https://www.42.fr/).
 
-- Hey 👋, moi c'est **BAH Mamad**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein
+- Hey 👋, moi c'est **BAH Mamadou**, étudiant à l'**École 42** 🎓, passionné par la programmation et toujours prêt à relever de nouveaux défis techniques 💻. Je suis actuellement en plein
 apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinant du [**CODE**]
 ---
 
@@ -32,8 +32,8 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 <a href="https://github.com/mbah24-dev/ft_printf">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/mbah24-dev/Born2beroot">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/born2beroote.png)</a>
 </div>
----
 
+---
 ### 😄 Une petite touche fun !
 
 <p align="center">
