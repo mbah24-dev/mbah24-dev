@@ -33,6 +33,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 <a href="https://github.com/mbah24-dev/Born2beroot">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/born2beroote.png)</a>
 </div>
 ---
+
 ### 😄 Une petite touche fun !
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZsYm5P38NvriRDi/giphy.gif" width="400" alt="Programming Fun" />
