@@ -6,7 +6,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ## 💡 Ce sur quoi je travaille actuellement :
 - 🔧 Projets en **C** à l'École 42
-- 🌱 Apprentissage de **Django** et **React**
+- 🌱 Apprentissage de **Spring Boot** et **Angular**
 - 🧠 Exploration de la **Cybersecurité**
 
 ## 🚀 Outils & Technologies que j'utilise :
