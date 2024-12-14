@@ -41,9 +41,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 > *La programmation, c'est comme un puzzle, mais avec plus de café.*
 
 ### 📈 Graphique des Contributions
-<p align="center">
-  <img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg" alt="Snake Animation" />
-</p>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ### 🚩 Badges
 ![Custom Badge](https://img.shields.io/badge/42-AlwaysLearning-green?style=for-the-badge&logo=42)
