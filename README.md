@@ -34,7 +34,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ---
 
-> *La programmation, c'est comme un puzzle, mais avec plus de café.*
+> *La seule chose plus frustrante que des bugs, c’est des bugs qui n’apparaissent que quand vous montrez votre code à quelqu’un.*
 
 <!--### 📈 Graphique des Contributions
 ![Snake Game](https://github.com/mbah24-dev/mbah24-dev/blob/output/github-contribution-grid-snake2.svg)
