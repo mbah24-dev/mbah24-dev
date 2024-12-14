@@ -30,7 +30,7 @@ jobs:
       - name: Générer Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: bahAli21
+          github_user_name: mbah24-dev
           outputs: dist
 
       - name: Ajouter Snake au dépôt
