@@ -33,16 +33,12 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 </div>
 
 ---
-### 😄 Une petite touche fun !
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5P38NvriRDi/giphy.gif" width="400" alt="Programming Fun" />
-</p>
 > *La programmation, c'est comme un puzzle, mais avec plus de café.*
 
-### 📈 Graphique des Contributions
+<!--### 📈 Graphique des Contributions
 ![Snake Game](https://github.com/mbah24-dev/mbah24-dev/blob/output/github-contribution-grid-snake2.svg)
-
+-->
 ---
 ### 🚩 Badges
 <p align="center">
@@ -71,7 +67,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ## 🤔 N'hésite pas à me contacter si tu veux discuter :
 - **C** 💻
 - **C++** 🔧
-- **Django** et **React** ⚡
+- **Spring Boot** et **Angular** ⚡
 
 ### Connectons-nous ! 🤝
 
