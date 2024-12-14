@@ -28,7 +28,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2.2.1
         with:
-          github_user_name: bahAli21 # Remplacez par votre nom d'utilisateur GitHub
+          github_user_name: mbah24-dev
           outputs: dist
 
       - name: Add Snake to the repository
