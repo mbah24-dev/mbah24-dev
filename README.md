@@ -35,6 +35,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ---
 
 ### 😄 Une petite touche fun !
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZsYm5P38NvriRDi/giphy.gif" width="400" alt="Programming Fun" />
 </p>
@@ -48,6 +49,12 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ### 🚩 Badges
 ![Custom Badge](https://img.shields.io/badge/42-AlwaysLearning-green?style=for-the-badge&logo=42)
 ![Followers](https://img.shields.io/github/followers/mbah24-dev?style=social)
+
+### 🌟 Réalisations
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=for-the-badge)
+![42 School](https://img.shields.io/badge/42-Cadet-blue?style=for-the-badge)
+
 
 ---
 
