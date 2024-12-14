@@ -1,0 +1,29 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    main.yml                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mbah <mbah@student.42.fr>                  +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/12/14 01:23:55 by mbah              #+#    #+#              #
+#    Updated: 2024/12/14 01:24:13 by mbah             ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: bahAli21
+          outputs: dist
+      - uses: actions/upload-artifact@v2
+        with:
+          name: dist
+          path: dist
+
