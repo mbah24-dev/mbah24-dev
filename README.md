@@ -42,7 +42,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ### 📈 Graphique des Contributions
 <p align="center">
-  <img src="https://github.com/mbah24-dev/mbah24-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg" alt="Snake Animation" />
 </p>
 
 ### 🚩 Badges
