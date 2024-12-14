@@ -36,11 +36,11 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ---
 
 ### 🚀 Projets Populaires
-- [🌟 Mon Projet Favori](https://github.com/mbah24-dev/mon-projet-favori)  
-  <img src="https://img.shields.io/github/stars/mbah24-dev/mon-projet-favori?style=social" alt="Stars" />
+- [🌟 Mon Projet Favori](https://github.com/mbah24-dev/A-Start)  
+  <img src="https://img.shields.io/github/stars/mbah24-dev/A-Start?style=social" alt="Stars" />
 
-- [⚙️ Un autre Projet Cool](https://github.com/mbah24-dev/un-autre-projet-cool)  
-  <img src="https://img.shields.io/github/stars/mbah24-dev/un-autre-projet-cool?style=social" alt="Stars" />
+- [⚙️ Un autre Projet Cool](https://github.com/mbah24-dev/get_next_line)  
+  <img src="https://img.shields.io/github/stars/mbah24-dev/get_next_line?style=social" alt="Stars" />
 
 ### 🌎 Carte des Visiteurs
 <p align="center">
