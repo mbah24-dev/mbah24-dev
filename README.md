@@ -35,6 +35,31 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ---
 
+### 🚀 Projets Populaires
+- [🌟 Mon Projet Favori](https://github.com/mbah24-dev/mon-projet-favori)  
+  <img src="https://img.shields.io/github/stars/mbah24-dev/mon-projet-favori?style=social" alt="Stars" />
+
+- [⚙️ Un autre Projet Cool](https://github.com/mbah24-dev/un-autre-projet-cool)  
+  <img src="https://img.shields.io/github/stars/mbah24-dev/un-autre-projet-cool?style=social" alt="Stars" />
+
+### 🌎 Carte des Visiteurs
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mbah24-dev&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Compteur de Visiteurs" />
+</p>
+
+### 😄 Une petite touche fun !
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYm5P38NvriRDi/giphy.gif" width="400" alt="Programming Fun" />
+</p>
+
+> *La programmation, c'est comme un puzzle, mais avec plus de café.*
+
+### 🚩 Badges
+![Custom Badge](https://img.shields.io/badge/42-AlwaysLearning-green?style=for-the-badge&logo=42)
+![Followers](https://img.shields.io/github/followers/mbah24-dev?style=social)
+
+---
+
 ## 📊 Mes Statistiques GitHub :
 <div align="center">
 
