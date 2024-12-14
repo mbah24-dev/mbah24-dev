@@ -43,15 +43,19 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ### 📈 Graphique des Contributions
 ![Snake Game](https://github.com/mbah24-dev/mbah24-dev/blob/output/github-contribution-grid-snake2.svg)
 
+---
 ### 🚩 Badges
 ![Custom Badge](https://img.shields.io/badge/42-AlwaysLearning-green?style=for-the-badge&logo=42)
 ![Followers](https://img.shields.io/github/followers/mbah24-dev?style=social)
-
-### 🌟 Réalisations
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-orange?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=for-the-badge)
-![42 School](https://img.shields.io/badge/42-Cadet-blue?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-ff3e00?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white" alt="Étudiant à 42"/>
+</p>
 
 ---
 
