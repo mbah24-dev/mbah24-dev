@@ -45,8 +45,6 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ---
 ### 🚩 Badges
-![Custom Badge](https://img.shields.io/badge/42-AlwaysLearning-green?style=for-the-badge&logo=42)
-![Followers](https://img.shields.io/github/followers/mbah24-dev?style=social)
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-ff3e00?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
