@@ -3,6 +3,9 @@ erif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: 
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-botto
  m: 20px;">
  <img src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&theme=gruvbox&count_private=true" alt="mbah24-dev's GitHub stats" style="max-width: 400px; border-radius:8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbah24-dev&hide=java,html,css&layout=compact&theme=radical&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbah24-dev&theme=xcode&hide_border=true" />
 </div>
    <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
@@ -72,7 +75,6 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ## 📊 Mes Statistiques GitHub :
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbah24-dev&hide=java,html,css&layout=compact&theme=radical&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mbah24-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbah24-dev&theme=radical&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/mbah24-dev">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mbah24-dev&theme=tokyonight" alt="mbah24-dev" />
 </a>
