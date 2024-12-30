@@ -2,11 +2,8 @@
 erif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-botto
  m: 20px;">
- <img src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&theme=
-gruvbox&count_private=true" alt="mbah24-dev's GitHub stats" style="max-width: 400px; border-radius:
-8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mbah24-dev&theme=xcode
-&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&theme=gruvbox&count_private=true" alt="mbah24-dev's GitHub stats" style="max-width: 400px; border-radius:8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mbah24-dev&theme=xcode&hide_border=true" />
 </div>
    <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
@@ -53,7 +50,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 
 ---
 
-> *La seule chose plus frustrante que des bugs, c’est des bugs qui n’apparaissent que quand vous montrez votre code à quelqu’un.*
+> *💻 Les amateurs codent pour que ça fonctionne 🤷‍♂️, les maîtres codent pour que ça ne casse jamais 💪🔥🚀.*
 
 <!--### 📈 Graphique des Contributions
 ![Snake Game](https://github.com/mbah24-dev/mbah24-dev/blob/output/github-contribution-grid-snake2.svg)
