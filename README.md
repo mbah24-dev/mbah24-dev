@@ -1,14 +1,15 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
   <!-- Ligne contenant les deux stats -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&theme=gruvbox&count_private=true" alt="mbah24-dev's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mbah24-dev&show_icons=true&theme=gruvbox&count_private=true" alt="mbah24-dev's GitHub stats" style="width: 400px; height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbah24-dev&hide=java,html,css&layout=compact&theme=radical&hide_title=false" alt="Top Languages" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbah24-dev&hide=java,html,css&layout=compact&theme=radical&hide_title=false" alt="Top Languages" style="width: 400px; height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
   </div>
 
   <!-- Graphique en dessous -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbah24-dev&theme=xcode&hide_border=true" alt="Activity Graph" style="margin-top: 20px; max-width: 800px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
 </div>
+
 
    <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
