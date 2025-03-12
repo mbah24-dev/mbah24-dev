@@ -32,12 +32,13 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" title="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" title="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
 </p>
+
 
 
 
@@ -72,7 +73,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
   <img src="https://img.shields.io/badge/Angular-ff3e00?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white" alt="Étudiant à 42"/>
@@ -93,7 +94,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ## 🤔 N'hésite pas à me contacter si tu veux discuter :
 - **C** 💻
 - **C++** 🔧
-- **Spring Boot** et **Angular** ⚡
+- **NestJS** et **Angular** ⚡
 
 ### Connectons-nous ! 🤝
 
