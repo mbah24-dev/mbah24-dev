@@ -99,7 +99,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ### Connectons-nous ! 🤝
 
 - [LinkedIn](https://www.linkedin.com/in/mamadou-bah-047979219/) 🔗
-- [Portfolio](https://bahAli21.github.io/BAHMamadou) 🐦
+- [Portfolio](https://mamadoubah.vercel.app) 🐦
 - [GitHub](https://github.com/mbah24-dev) 👨‍💻
 
 ---
