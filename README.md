@@ -59,6 +59,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 <a href="https://github.com/mbah24-dev/Pipex">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/mbah24-dev/Philosophers">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/mbah24-dev/MiniShell">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/mbah24-dev/NetPractice">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/netpracticee.png)</a>
 </div>
 
 ---
