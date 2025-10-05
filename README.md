@@ -50,14 +50,14 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 ---
 <div align="center">
 
-<a href="https://github.com/mbah24-dev/libft">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/mbah24-dev/get_next_line">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mbah24-dev/libft">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/mbah24-dev/get_next_line">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/mbah24-dev/ft_printf">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/mbah24-dev/Born2beroot">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/born2beroote.png)</a>
 <a href="https://github.com/mbah24-dev/push_swap">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/mbah24-dev/FdF">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/fdfe.png)</a>
+<a href="https://github.com/mbah24-dev/FdF">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/fdfm.png)</a>
 <a href="https://github.com/mbah24-dev/Pipex">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/mbah24-dev/Philosophers">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/mbah24-dev/Philosophers">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/philosophersm.png)</a>
 <a href="https://github.com/mbah24-dev/MiniShell">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/mbah24-dev/NetPractice">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/netpracticee.png)</a>
 </div>
