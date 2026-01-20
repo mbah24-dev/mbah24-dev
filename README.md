@@ -61,6 +61,7 @@ apprentissage du **Tronc Commun** à 42, où je me plonge dans le monde fascinan
 <a href="https://github.com/mbah24-dev/MiniShell">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/mbah24-dev/NetPractice">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/mbah24-dev/CPP_42">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/mbah24-dev/Cube3D">![42 Badge](https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/cube3de.png)</a>
 </div>
 
 ---
